@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @crisanieves
 - 👀 I’m interested in Unity3D Develop, C#, HTML, CSS and JavaScript coding
   
-### Full-stack Developer & Electronic engineer
+### Full-stack Developer & Electronic Engineer
 
 ![https://github.com/crisanieves](./crisanieves_github_profile.png)
 
