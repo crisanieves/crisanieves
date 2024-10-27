@@ -61,6 +61,7 @@ Desde 2018 comienzo a crear proyectos personales, compaginándolo con mi activid
 -->
 
 ## Algunos vídeos recomendados en YouTube:
+<!--
 
 <table style="width:100%">
 <tr>
@@ -80,6 +81,8 @@ Desde 2018 comienzo a crear proyectos personales, compaginándolo con mi activid
 <hr>
 <br>
 <hr>
+
+-->
 
 <!--
 
