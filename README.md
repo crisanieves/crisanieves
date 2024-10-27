@@ -61,18 +61,18 @@ Desde 2018 comienzo a crear proyectos personales, compaginándolo con mi activid
 -->
 
 ## Algunos vídeos recomendados en YouTube:
-<!--
+
 
 <table style="width:100%">
 <tr>
 <td>
 <a href="https://youtu.be/wGxDfSWC4Ww">
-<img src="https://i.ytimg.com/vi/wGxDfSWC4Ww/hqdefault.jpg">
+<img src="http://reporteciencianl.com/wp-content/uploads/2022/12/qubits_fabricacion_.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/mVu_kOtuybM">
-<img src="[[https://i.ytimg.com/an_webp/mVu_kOtuybM/mqdefault_6s.webp">
+<a href="">
+<img src="">
 </a>
 </td>
 </tr>
@@ -81,8 +81,6 @@ Desde 2018 comienzo a crear proyectos personales, compaginándolo con mi activid
 <hr>
 <br>
 <hr>
-
--->
 
 <!--
 
