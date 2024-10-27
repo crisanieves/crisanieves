@@ -62,7 +62,6 @@ Desde 2018 comienzo a crear proyectos personales, compaginándolo con mi activid
 
 ## Algunos vídeos recomendados en YouTube:
 
-
 <table style="width:100%">
 <tr>
 <td>
@@ -70,11 +69,13 @@ Desde 2018 comienzo a crear proyectos personales, compaginándolo con mi activid
 <img src="http://reporteciencianl.com/wp-content/uploads/2022/12/qubits_fabricacion_.jpg">
 </a>
 </td>
+<!--
 <td>
 <a href="">
 <img src="">
 </a>
 </td>
+-->
 </tr>
 </table>
 
